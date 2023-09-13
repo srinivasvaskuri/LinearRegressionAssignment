@@ -1,5 +1,3 @@
-[8:19 PM] Srirangam, Vamsi
-
 # Project Name
 
 Bike Sharing Demand Prediction, building a multiple linear regression model for the prediction of demand for shared bikes.
